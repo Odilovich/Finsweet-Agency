@@ -1,0 +1,134 @@
+#blog-3 {
+  width: 505px;
+  margin: 160px auto;
+}
+
+.blog-3_wrapper-tittle {
+}
+
+.blog-3_wrapper-img {
+  width: 505px;
+  border-radius: 50%;
+}
+
+.name-p {
+  color: var(--Text, #232536);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 54px;
+  margin-top: 48px;
+}
+
+.ceo-p {
+  color: var(--Text, #232536);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+  opacity: 0.7;
+  margin-top: 8px;
+}
+
+.tittle-p {
+  width: 505px;
+  color: #232536;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  opacity: 0.87;
+  margin-bottom: 32px;
+  margin-top: 24px;
+}
+
+.icon-svg {
+  display: flex;
+  justify-content: center;
+  gap: 27px;
+}
+
+
+#blog-3_bgc{
+    background: #ECF8F9;
+    padding: 60px;
+    margin-bottom: 96px;
+}
+
+.blog-3_bgc_wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.blog-bgc > h1 {
+  color: #232536;
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 58px;
+  margin-bottom: 48px;
+}
+
+.left-bgc_wrapper{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    background-color: white;
+}
+
+.left-bgc > p {
+  color: #232536;
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+  opacity: 0.6;
+  margin-bottom: 12px;
+}
+
+.left-bgc > h2 {
+  width: 264px;
+  color: #232536;
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 36px;
+  margin-bottom: 20px;
+}
+
+.right-bgc_wrapper{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    background-color: white;
+}
+
+.right-bgc > p {
+  color: #232536;
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+  opacity: 0.6;
+  margin-bottom: 12px;
+}
+
+.right-bgc > h2 {
+  width: 264px;
+  color: #232536;
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 36px;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,37 @@
+#blog {
+  margin-top: 140px;
+}
+
+.blog_tittle-left > p-1 {
+  color: #000;
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  opacity: 0.87;
+}
+
+.blog_tittle-left > h1 {
+  width: 550px;
+  color: #232536;
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 58px;
+  margin-bottom: 60px;
+}
+
+ .p-22 {
+  width: 624px;
+  color: #232536;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  opacity: 1.87;
+  margin-bottom: 60px;
+}
